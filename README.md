@@ -4,7 +4,7 @@ Facebook and Youtube Downloader allows you to download Videos from Youtube and F
 Behind the layer of abstraction, this parses raw page content and uses reverse-engineered AJAX requests to retrieve information.
 By using PHP Curl, the file you download will be getting the correct name of video instead of "videoplayback" in youtube and random numbers in facebook.
 
-##Screenshot
+## Screenshot
 
 ![](https://photos.google.com/photo/AF1QipNAh287NQG5fCrliSCBJ9uFOm9mNpOgpz0trnkR)
 
